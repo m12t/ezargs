@@ -1,3 +1,3 @@
-from ezargs.ezargs import parse_args
+from ezargs.parser import parse_args
 
 __all__ = [parse_args]
